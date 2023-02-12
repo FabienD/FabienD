@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a French developer who started web development in 1998 with PHP after learning Sciences and especially fluid mechanics.
+
+After 25 years, I still do this job with the same passion. I still write in PHP, Javascript and Python, but for a while I like to write in Rust. Even though I can write Javascript and CSS code, I must admit that I have more affinity for backend stuff.
+
 <!--
 **FabienD/FabienD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
