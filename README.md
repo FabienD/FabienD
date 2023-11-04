@@ -2,7 +2,7 @@
 
 I am a French developer who started web development in 1998 with PHP after :man_scientist: learning Sciences and especially fluid mechanics.
 
-After 25 years, I still do this job with the same passion :technologist:. I still write in :elephant: PHP, Javascript and :snake: Python, but for a while I like to write in :crab: Rust. Even though I can write Javascript, HTML and CSS code, I must admit that I have more affinity for backend stuff.
+After 25 years, I still do this job with the same passion :technologist:. I still write in :elephant: PHP, Typescript and :snake: Python, but for a while I like to write in :crab: Rust. Even though I can write Javascript, HTML and CSS code, I must admit that I have more affinity for backend stuff.
 
 <!--
 **FabienD/FabienD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
