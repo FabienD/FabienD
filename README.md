@@ -1,9 +1,16 @@
 ### Hi there 👋
 
-I am a French developer who started web development in 1998 with PHP after :man_scientist: learning Sciences and especially fluid mechanics.
+I'm Fabien, a French developer passionate about web technologies since 1998, when I started with PHP after studying Sciences—especially fluid mechanics :man_scientist:.
 
-After 26 years, I still do this job with the same passion :technologist:. I still write in :elephant: PHP or :snake: Python, but for a while I enjoy writing in :crab: Rust and a little in 🦫 Go. 
-Even though I can write TypeScript, HTML and CSS code, I must admit that I have more ✨affinity for backend stuff✨.
+After 27 years, I still approach software development with the same enthusiasm :technologist:.
+These days, I mostly write in :elephant: PHP and :snake: Python, but I also enjoy exploring :crab: Rust and 🦫 Go.
+While I can work with TypeScript, HTML, and CSS, my true affinity lies with backend development and software architecture ✨.
+
+- 🔭 Currently working on open source projects and backend tools.
+- 🌱 Continuously learning new languages and paradigms, especially Rust and Go.
+- 👯 Open to collaborating on innovative backend projects.
+- 💬 Happy to discuss backend, architecture, or best development practices.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/fabien-dosse/) or here on GitHub.
 
 <!--
 **FabienD/FabienD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
