@@ -10,4 +10,4 @@ Backend developer with a scientific background (fluid mechanics) who's been buil
 🦀 Learning: Pushing my Rust skills further every day  
 💬 Let's talk: Backend architecture, DDD, or why Rust is worth the learning curve
 
-📫 Find me on [LinkedIn](...)
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/fabien-dosse)
